@@ -6,6 +6,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "91243a04793f28ed",
+        "key": "getok123",
+        "expirydate": "1-12-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
